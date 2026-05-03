@@ -17,9 +17,9 @@ Acredito que a segurança da informação deve ser acessível. Por isso, utilizo
 ## 📚 Índice de Conhecimento (Em Construção)
 
 ### 🎓 Formação Acadêmica
-*   [Engenharia da Computação](./01-Graduacao)
-*   [Pós-Técnico](./02-Pos-Tecnico)
-*   [Técnico](./03-Tecnico)
+*   [Técnico em Redes de Computadores](./01-Tecnico)
+*   [Pós-Técnico em Especialização em Ciber Segurança](./02-Pos-Tecnico)
+*   [Engenharia da Computação](./03-Graduacao)
 
 ### 🛡️ Trilha de Certificações e Aulas
 *   [Fortinet (FCF, FCA) e Defesa de Perímetro](./04-Certificacoes/Fortinet.md)
